@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "585516708590",
+    "project_id": "melb-badminton-app",
+    "storage_bucket": "melb-badminton-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585516708590:android:a0c47f826435b4310f39ff",
+        "android_client_info": {
+          "package_name": "com.example.badminton_social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585516708590-vptt0vgv6utqnk9ml1clt38jihi2b2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2qaBQ8VA3crudJ0wttPpvTncULflfI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585516708590-vptt0vgv6utqnk9ml1clt38jihi2b2j6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585516708590-8bmcu7irikhfpp56k60ebqsu411q0quu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.melbourneBadmintonApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585516708590:android:3c5625b5333648ad0f39ff",
+        "android_client_info": {
+          "package_name": "com.skraz.melbourne_badminton_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585516708590-vptt0vgv6utqnk9ml1clt38jihi2b2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2qaBQ8VA3crudJ0wttPpvTncULflfI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585516708590-vptt0vgv6utqnk9ml1clt38jihi2b2j6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585516708590-8bmcu7irikhfpp56k60ebqsu411q0quu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.melbourneBadmintonApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

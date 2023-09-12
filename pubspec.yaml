@@ -1,0 +1,23 @@
+name: badminton_social_app
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  beamer: ^1.5.3
+  firebase_core: ^2.15.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  firebase_auth: ^4.9.0
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+  provider: ^6.0.5
+
+flutter:
+  uses-material-design: true
